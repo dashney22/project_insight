@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0 .46875rem 2.1875rem rgba(4, 9, 20, .03), 0 .9375rem 1.40625rem rgba(4, 9, 20, .03), 0 .25rem .53125rem rgba(4, 9, 20, .05), 0 .125rem .1875rem rgba(4, 9, 20, .03);
+  border-width: 0;
+  transition: all .2s;
+  width: 70%;
+}
+
+.title-section {
+  background-color: #1e3c72;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.custom-navbar{
+  background-color: #1e3c72;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: 1.25rem
+}
+
+
