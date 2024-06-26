@@ -1,0 +1,29 @@
+# Virtual Environment
+myenv/
+
+# Database
+db.sqlite3
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local settings and configurations
+myproject/settings.py
+myproject/settings/__init__.py
+
+# Logs and media files
+logs/
+media/
+
+# Development and IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# macOS specific
+.DS_Store
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
